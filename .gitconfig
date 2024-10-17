@@ -1,0 +1,9 @@
+[user]
+	name = Jordan Reger
+	email = mail@jordanreger.com
+[core]
+	autocrlf = input
+[init]
+	defaultBranch = main
+[push]
+	autoSetupRemote = true
